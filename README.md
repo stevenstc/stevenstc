@@ -44,22 +44,17 @@ _____
 #### Algunos de mis proyectos:
 
 <!-- imagenes para la tabla:
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   -->
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   
 
 
 | notFoundResponsive  | rockPaperScissors  | toDoSimple  |
 |---|---|---|
 | <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
-
+-->
 
 #### ¿Hablamos?☕️
 
-<a href="mailto:developstc@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="steven cabrera" height="30" width="40" />developstc@gmail.com</a>
-</p>
+[📫 @steven_stc](https://t.me/steven_stc)
 
 
 

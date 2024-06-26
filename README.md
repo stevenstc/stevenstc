@@ -1,3 +1,67 @@
+### My name is Steven Cabrera 👋
+#### Junior web developer full-stack 💻♨️
+
+
+
+#### I currently focus on:
+
+- Developing web applications using new technologies (Solidity, smart contracts, web3).
+- Collaborate in a full stack project 👉🏻 [Brutus.Finance](https://brutus.finance/) (TRON).
+- Collaborate in a full stack project 👉🏻 [cirotrx.com](https://cirotrx.com/) (TRON).
+- administrator of 3 private projects on the Binance smartchian network.
+___
+
+
+#### I have knowledge of:
+
+##### Programming languages
+
+JavaScript, Solidity
+
+____
+
+##### FrontEnd Development
+
+React, JavaScript, HTML, CSS, Bootstrap
+
+____
+
+##### Backend Development
+
+NodeJs, PHP, JavaScript
+
+_____
+
+##### Database
+
+mongoDB, MySQL
+
+_____
+
+ ##### Others
+ 
+ Postman, Git y Github
+
+
+<!-- #### Algunos de mis proyectos:
+
+imagenes para la tabla:
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   
+
+
+| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
+|---|---|---|
+| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+-->
+
+#### ¿Hablamos?☕️
+
+[📫 @steven_stc](https://t.me/steven_stc)
+
+
+_____
+
+
 ### Mi nombre es Steven Cabrera 👋
 #### Desarrollador web junior full-stack 💻♨️
 
